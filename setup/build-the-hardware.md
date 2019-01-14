@@ -10,9 +10,9 @@ At first, you need the base PCB. You can find all plans needed here: [https://gi
 
 I have ordered mine directly at [EasyEDA.com](https://easyeda.com).
 
-![schematic](../.gitbook/assets/image.png)
+![schematic](../.gitbook/assets/image%20%282%29.png)
 
-![pcb](../.gitbook/assets/image%20%281%29.png)
+![pcb](../.gitbook/assets/image%20%283%29.png)
 
 ## Assemble the PCB
 

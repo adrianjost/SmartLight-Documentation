@@ -8,7 +8,7 @@ The Setup is almost done now 😊 The only thing todo is to open the webapp, log
 
 ## Step 1 - Login
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 You can choose one of the given options. Whatever you choose, I promise you that I don't do anything with your data. I created this project purely for myself without any commercial interests. But be aware that for the same reason, this isn't a commercial product so it's totaly possible that I delete your userdata at some point or stop mainting the product at all. To be on the safe side, setup your own instance of the webapp. It's simple, I promise. 
 
