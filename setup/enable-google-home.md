@@ -1,4 +1,4 @@
-# Enable Google Home
+# Enable Google Assistant
 
 {% hint style="info" %}
 You need an [IFTTT Account](https://ifttt.com/discover) to continue.
