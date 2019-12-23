@@ -13,7 +13,5 @@ As a computer science student, I didn't realize I had to spend hundreds of dolla
 * modern Web-App that you can add to your Homescreen.
 * support for IFTTT & Google Home \(via IFTTT\)
 
-{% page-ref page="setup/" %}
-
-{% page-ref page="how-does-it-work.md" %}
+{% page-ref page="about/how-does-it-work.md" %}
 

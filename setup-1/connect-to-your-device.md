@@ -1,18 +1,18 @@
-# Connect to your device
+# Connect  your devices
 
 The Setup is almost done now 😊 The only thing todo is to open the webapp, login and add your lamp.
 
 ## [Step 0 - Open the Web-App](http://smartlight.hackedit.de/)
 
-[http://smartlight.hackedit.de/](http://smartlight.hackedit.de/)
+[http://app.smartlight.](http://smartlight.hackedit.de/)ga
 
 ## Step 1 - Login
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
-You can choose one of the given options. Whatever you choose, I promise you that I don't do anything with your data. I created this project purely for myself without any commercial interests. But be aware that for the same reason, this isn't a commercial product so it's totaly possible that I delete your userdata at some point or stop mainting the product at all. To be on the safe side, setup your own instance of the webapp. It's simple, I promise. 
+You can choose one of the given options. Whatever you choose, I promise you that I don't do anything with your data. I created this project purely for myself without any commercial interests. But be aware that for the same reason, this isn't a commercial product so it's totaly possible that I delete your userdata at some point or stop mainting the product at all. To be on the safe side, setup your own instance of the webapp. It's simple, I promise.
 
-{% page-ref page="../host-your-own-web-client.md" %}
+{% page-ref page="setup-the-server-optional.md" %}
 
 ## Step 2 - Add your Lamps
 
@@ -31,6 +31,10 @@ I think the UI is pretty self-explanatory but to be on the safe side:
 Almost all fields are optional, except the Name, Hostname or IP, and the Icon. The Tags are only used to identify lamps when using the IFTTT Google Home adapter.
 
 Add the Lamp by clicking the checkmark at the bottom of the page.
+
+{% hint style="info" %}
+I can recommend the App "Fing - Network Scan" to get the hostname and IP of all devices in your local network.
+{% endhint %}
 
 ### 4. DONE - Control your lamps
 
