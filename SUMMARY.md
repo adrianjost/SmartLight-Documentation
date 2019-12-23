@@ -5,6 +5,7 @@
 ## About
 
 * [How does it work?](about/how-does-it-work.md)
+* [Links](about/links.md)
 
 ## Setup
 
