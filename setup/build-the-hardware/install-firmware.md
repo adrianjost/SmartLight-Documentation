@@ -16,9 +16,9 @@ You can find the latest firmware version in the [releases section](https://githu
 Firmware V3 only works with the Web Client V3. It is not backwards compatible.
 {% endhint %}
 
-## Step 2 - Connect the PCB to your PCB
+## Step 2 - Connect the PCB to your Computer
 
-Use the M0 connector to connect the PCB to your programmer.
+Use the M0 connector to connect the PCB to your computer using a programmer.
 
 ## Step 3 - Flash Firmware
 
