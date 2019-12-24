@@ -1,6 +1,6 @@
 # Enable Google Assistant
 
-{% hint style="info" %}
+{% hint style="warning" %}
 You need an [IFTTT Account](https://ifttt.com/discover) to continue.
 {% endhint %}
 
