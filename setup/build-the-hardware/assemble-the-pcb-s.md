@@ -80,3 +80,23 @@ I am using 2x \(1x4\) pin headers. To solder them more easaly I plugged in an de
 
 ### You did it 🥳
 
+## MOSFET Adapter PCB
+
+### 1. R1-Q3: Add current limitig Resistors
+
+{% hint style="warning" %}
+Please check that they will not interfere with the MOSFETs added in Step 2. Otherwise you may need some smaller resistors.
+{% endhint %}
+
+### 2. Q1-Q3: MOSFETs
+
+ Bend the legs of the MOSFETs so they fit into the lines marked on the PCB
+
+### 3. R5-R7: Pull Down Resistors \(optional\)
+
+{% hint style="danger" %}
+Do not add the R5 Resistor. If connected the ESP won't boot when this PCB is connected. Check [Issue 2](https://github.com/adrianjost/SmartLight-Hardware/issues/2).
+{% endhint %}
+
+I don't know 100% if they are really necessary but they may help discharge the MOSFET gate and prevent them from breaking. I am currently monitoring this. For now you should be save to skip this step.
+

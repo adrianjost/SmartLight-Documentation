@@ -61,8 +61,8 @@ Depending in the LEDs you want to connect you need:
 Do not add the R5 Resistor. If connected the ESP won't boot when this PCB is connected. Check [Issue 2](https://github.com/adrianjost/SmartLight-Hardware/issues/2).
 {% endhint %}
 
-If you want to controle 12V/24V based LED Stripes you can not connect them directly to the ESP. You need to boost the output signal in order to light them up. For this reason, there exists the MOSFET Adapter PCB. Depending on the number of Channels you wan't to connect you need 1 to 3 MOSFETs. In addition you need 3 Pull Down Resitors and 3 current limiting Resitors. I can't tell you the exact values you need, because they depend on the MOSFETs you can get. The most important thing is, that the MOSFET can be fully opened by 3V3.   
-I am using the IRLB8721PBF TO-220AB 65W MOSFETs with 10k Ohm pull down resitors and 470 Ohm current limiting resitors. 
+If you want to controle 12V/24V based LED Stripes you can not connect them directly to the ESP. You need to boost the output signal in order to light them up. For this reason, there exists the MOSFET Adapter PCB. Depending on the number of Channels you wan't to connect you need 1 to 3 MOSFETs. In addition you need _\(optional: 3 Pull Down Resitors and\)_ 3 current limiting Resitors. I can't tell you the exact values you need, because they depend on the MOSFETs you can get. The most important thing is, that the MOSFET can be fully opened by 3V3.   
+I am using the IRLB8721PBF TO-220AB 65W MOSFETs and 470 Ohm current limiting resistors. 
 
 {% hint style="info" %}
 Before buying the resitors, please check that they actually fit onto the PCB.
