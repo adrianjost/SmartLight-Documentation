@@ -28,7 +28,7 @@ Make sure that your ESP8266-01 is connected to your PC and you choose the right 
 
 ![My flash config for an ESP8266-01 with 1MB of Flash Storage.](../../.gitbook/assets/image%20%289%29.png)
 
-### Compile and Upload your Code.
+#### Compile and Upload your Code.
 
 {% hint style="warning" %}
 * Hold down both push buttons during the compile step in the Arduino IDE
@@ -42,9 +42,9 @@ Sometimes it is required to power off/disconnect the ESP/Programmer just before 
 
 ## Step 3 - Setup
 
-When you Power On the ESP8266-01 it tries \(for 5 minutes\) to connect to the saved WiFi Access Point. While doing so he is hosting his own Access Point called _"SmartLight - Setup"_.
+When you Power On the ESP8266-01 it tries \(for 5 minutes\) to connect to the saved WiFi Access Point. While doing so he is hosting his own Access Point called _"SmartLight - Setup"_. 
 
-Connect to it with your PC or Smartphone and open the URL [http://192.168.4.1](http://192.168.4.1). The Password is _"LightItUp"_ You must choose your WiFi there and can set up some other things like the type of LED-Strips you connected and what the hostname of the device in your WiFi should be.
+Connect to it with your PC or Smartphone and open the URL http://192.168.4.1. The Password is _"LightItUp"_ You must choose your WiFi there and can set up some other things like the type of LED-Strips you connected and what the hostname of the device in your WiFi should be.
 
 {% hint style="success" %}
 Don't worry. If you ever want to change the config, restart the ESP and hold down the FLASH Button for &gt;0.5s in the first 5s after restart. This will force the setup mode and opens the SmartLight Setup Access Point.
