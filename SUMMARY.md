@@ -15,5 +15,11 @@
   * [Install Firmware](setup/build-the-hardware/install-firmware.md)
 * [Connect  your devices](setup/connect-to-your-device.md)
 * [Setup the Server \(optional\)](setup/setup-the-server-optional.md)
-* [Enable Google Assistant](setup/enable-google-home.md)
+
+## Integrations
+
+* [Google Home](integrations/google-home.md)
+* [API](integrations/api/README.md)
+  * [Examples](integrations/api/examples/README.md)
+    * [IFTTT & Google Assistant](integrations/api/examples/ifttt-google-assistant.md)
 
