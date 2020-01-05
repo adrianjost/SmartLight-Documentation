@@ -20,6 +20,6 @@
 
 * [API](integrations/api/README.md)
   * [Examples](integrations/api/examples/README.md)
-    * [IFTTT & Google Assistant](setup/enable-google-home.md)
+    * [IFTTT & Google Assistant](integrations/api/examples/ifttt-google-assistant.md)
 * [Google Home](integrations/google-home.md)
 

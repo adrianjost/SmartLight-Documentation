@@ -27,12 +27,12 @@ Open: [https://ifttt.com/create](https://ifttt.com/create)
 
 1. Choose "Webhooks" \(figure 2\) as your action service.
 2. Fill in the webhook form
-   1. URL: `https://us-central1-smartlight-4861d.cloudfunctions.net/iftttSpeach`
+   1. URL: `https://us-central1-smartlight-4861d.cloudfunctions.net/api/units/setNL`
    2. Method: `POST`
    3. Content Type: `application/JSON`
    4. Body
       1. Open the Web-App, go to settings and create your personal access token. \(figure 3\)
-      2. Body Content:  `{    "uid": "YOUR USERID",    "secret": "YOUR ACCESS TOKEN",    "textString": "{{TextField}}"  }`
+      2. Body Content:  `{    "userid": "YOUR USERID",    "token": "YOUR ACCESS TOKEN",    "lang": "de",   "payload": "{{TextField}}"  }`
 3. Click "Create Action"
 
 ![figure 3](../../../.gitbook/assets/screenshot-settings-api-token.png)
