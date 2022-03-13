@@ -27,7 +27,7 @@ Open: [https://ifttt.com/create](https://ifttt.com/create)
 
 1. Choose "Webhooks" \(figure 2\) as your action service.
 2. Fill in the webhook form
-   1. URL: `https://us-central1-smartlight-4861d.cloudfunctions.net/api/units/setNL`
+   1. URL: `http://localhost:5000/aj-smartlight/us-central1/api/units/setNL`
    2. Method: `POST`
    3. Content Type: `application/JSON`
    4. Body
